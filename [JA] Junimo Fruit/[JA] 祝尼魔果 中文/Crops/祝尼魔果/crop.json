@@ -1,0 +1,20 @@
+{
+    "Name": "祝尼魔果",
+    "Product": "祝尼魔果",
+    "SeedName": "祝尼魔果种子",
+    "SeedDescription": "三个季度都可种植，16天成熟。隐隐可以感觉到森之精灵的灵气。",
+    "Type": "Fruit",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [1, 4, 5, 4],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1
+    },
+    "SeedPurchasePrice": 200
+}
